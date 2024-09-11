@@ -26,4 +26,4 @@ console.log(result(sentences));
 
 //hello izza
 //halo zaa
-//ini adalah branch addition
+//ini adalah branch addition yang dirubah ke2 kalinya di izza
