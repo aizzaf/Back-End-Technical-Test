@@ -27,4 +27,6 @@ console.log(result(sentences));
 //hello izza
 //halo zaa
 
+//ini adalah branch reduction di push
+
 //main berubah
