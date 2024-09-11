@@ -25,3 +25,4 @@ function result(sentences) {
 console.log(result(sentences));
 
 //hello izza
+//halo zaa
