@@ -26,3 +26,5 @@ console.log(result(sentences));
 
 //hello izza
 //halo zaa
+
+//main berubah
